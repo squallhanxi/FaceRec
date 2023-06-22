@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=AccSys
+Exec=/home/pi/AccSys/02.QT/build-AccSys-unknown-Debug/run.sh

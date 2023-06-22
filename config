@@ -1,0 +1,8 @@
+[server]
+ip=http://139.155.52.181/Face/public/index/Face/peoplein.html
+port=8537
+
+[posinfo]
+camid=01230C-27D762-E6B7EE
+posid=200001
+posname=SQUALLTEST
